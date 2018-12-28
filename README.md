@@ -4,9 +4,9 @@ The program takes several inputs: size of a matrix (NxN), chance to spread the d
 
 While being sick, a citizen has a chance to spread the disease to its neighbors. Population is presented as a two dimensional array. An example:
 
-1 0 0
-0 1 2
-9 9 2
+1 0 0 \n
+0 1 2 \n
+9 9 2 \n
 
 Different numbers represent different states of citizens:
 0 - healthy
